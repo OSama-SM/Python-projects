@@ -1,2 +1,2 @@
 # Python-projects
-I'll be adding pyhton projects here.
+I'll be adding python projects here.
